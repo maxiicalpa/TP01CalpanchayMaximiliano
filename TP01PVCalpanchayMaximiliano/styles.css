@@ -1,0 +1,49 @@
+body {
+    font-family: "Montserrat", sans-serif;;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #686767;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+nav h2 {
+    background-color: #949494;
+    display: inline-block;
+    padding: 10px 50px 10px 50px;
+    margin: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+.im1 img{
+width: 400px;
+}
+.im2 img{
+    width: 400px;
+}
+.im3 img{
+    width: 400px;
+}
+.im4 img{
+    width: 400px;
+}
+.im5 img{
+    width: 400px;
+}
+section {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
