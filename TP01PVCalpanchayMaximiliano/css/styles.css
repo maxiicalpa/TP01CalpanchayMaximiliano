@@ -4,34 +4,37 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
-header {
+header{
     background-color: #686767;
     color: white;
     padding-top: 20px;
     text-align: center;
 }
+header h1{
+    font-size: 3em;
+    line-height: 2;
+    font-weight: 800;
+}
 nav h2 {
     background-color: #949494;
     display: inline-block;
-    padding: 10px 50px 10px 50px;
+    padding: 10px 70px 10px 70px;
     margin: 40px;
     border-radius: 10px;
     text-align: center;
 }
+.im1 {
+    display: flex;
+    align-items: center; 
+    gap: 40px; 
+}
+.im1 a{
+    font-size: 2em;
+    text-align: center;
+    }
 .im1 img{
-width: 400px;
-}
-.im2 img{
     width: 400px;
-}
-.im3 img{
-    width: 400px;
-}
-.im4 img{
-    width: 400px;
-}
-.im5 img{
-    width: 400px;
+    height: auto;
 }
 section {
     padding: 20px;
